@@ -1,19 +1,18 @@
-# Daviduram.github.io
+# Hello World
 
-# David Ramirez's Portfolio
+This is my home page! My name is David Ramirez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
-I am a Computer Science major at CSU Fullerton planning to graduate in 2027  
+## Computer Science Projects
 
-## Favorite CPSC 120L Labs
+My GitHub page is http://github.com/your_username.
 
-* Lab 8, Part 2
+### CPSC 120
 
-I liked this lab because it focused on making a math algorithm which got me relieved what I learned in math helped with coding alongside seeing it make a solution with given numbers. But it did give me a bit of trouble in the beginning, the lecture halls certainly helped.
+* Lab 12
+  Lab 12 was particularly enjoyable for me as it involved the application of sine and tangent functions, illustrating the practical relevance of calculus concepts. It reaffirmed my understanding that calculus isn't just theoretical but has real-world applications. This hands-on experience emphasized the necessity of applying mathematical principles in practical scenarios.
 
-* Lab 10, Part 2
+* Lab 10
+  Lab 10 proved to be quite intriguing as it introduced the concept of 2D vectors, initially posing a challenge to comprehend. However, with the aid of the flowchart, I gradually grasped the intricacies and found clarity in understanding the subject matter. Despite the initial complexity, I found satisfaction in overcoming the hurdles and enhancing my comprehension of vector operations.
 
-It was nice using Text-driven development to make sifting through the amount of information manageable and make a "simpler" code so it wouldn't need to take a long time to code. Though it was a pain to learn how to code it I'd say I did pretty well on it.
-
-* Lab 7, part 2
-
-I was genuinely happy with the algorithm to prove or disprove a date you give to it and time to tell you if it's available or not. But on the other hand It was a lot to code and figure out how everything worked and was put together, but id work on it again if given the chance because it was interesting to work on to say the least.
+* Lab 8
+  While Lab 8 presented significant frustration, second only to Lab 12, it was immensely rewarding to successfully validate command-line argument inputs and iterate through them in a loop. The sense of accomplishment derived from overcoming the challenges underscored the value of perseverance in problem-solving within the realm of command-line programming. Despite the initial frustrations, the experience left a lasting impression of satisfaction and growth in my programming skills.
