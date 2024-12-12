@@ -8,14 +8,14 @@ My GitHub page is http://github.com/Daviduram.
 
 ### CPSC 120
 
-* Lab 12
+1. Lab 7
 
-  Lab 12 was particularly enjoyable for me as it involved the application of sine and tangent functions, illustrating the practical relevance of calculus concepts. It reaffirmed my understanding that calculus isn't just theoretical but has real-world applications. This hands-on experience emphasized the necessity of applying mathematical principles in practical scenarios.
+  * Lab 7 was a pretty nifty lab i took part in, even if it had one part to it. I managed to with a partner make a script to inform a person about designated times and dates of when a car can park. The if statments were pretty tricky but after a while I could tell the pattern.
 
-* Lab 10
+2. Lab 10
 
-  Lab 10 proved to be quite intriguing as it introduced the concept of 2D vectors, initially posing a challenge to comprehend. However, with the aid of the flowchart, I gradually grasped the intricacies and found clarity in understanding the subject matter. Despite the initial complexity, I found satisfaction in overcoming the hurdles and enhancing my comprehension of vector operations.
+  * Lab 10 proved to be quite intriguing as it introduced the concept of 2D vectors to determin population density which was horrible to try and solve. But I gradually grasped the code and understood the subject matter a little better. Despite the the initial confusion, I found satisfaction in completing the hard lab with any means I could.
 
-* Lab 8
+3. Lab 8
 
-  While Lab 8 presented significant frustration, second only to Lab 12, it was immensely rewarding to successfully validate command-line argument inputs and iterate through them in a loop. The sense of accomplishment derived from overcoming the challenges underscored the value of perseverance in problem-solving within the realm of command-line programming. Despite the initial frustrations, the experience left a lasting impression of satisfaction and growth in my programming skills.
+  * While Lab 8 presented heaby frustation for me, second only to Lab 11, it was immensely rewarding to successfully get the averages int he make tests. The sense of accomplishment derived from overcoming the challenges to get the averages given was amazing. Despite the initial frustrations, the experience left a lasting impression on what to work on when it comes to coding.
